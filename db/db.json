@@ -2,15 +2,15 @@
   "lugares": [
     {
       "id": "1",
-      "nome": "Mercado Novo de BH",
-      "descricao": "Centro de compras popular no coração de BH, oferecendo variedade de produtos, gastronomia e cultura local.",
-      "conteudo": "O Mercado Novo é um dos pontos comerciais mais tradicionais de Belo Horizonte, localizado no centro da cidade. Com uma arquitetura única e uma atmosfera vibrante, o local oferece uma grande variedade de produtos, desde artesanatos locais até roupas e acessórios. É também um excelente local para experimentar a gastronomia mineira, com diversas opções de lanches tradicionais e pratos típicos. O mercado é um verdadeiro centro cultural, onde a tradição e a modernidade se encontram, proporcionando uma experiência autêntica da vida belo-horizontina.",
+      "nome": "Mercado Novo de BH - ATUALIZADO",
+      "descricao": "Centro de compras popular no coração de BH, oferecendo variedade de produtos, gastronomia e cultura local mineira.",
+      "conteudo": "O Mercado Novo é um dos pontos comerciais mais tradicionais de Belo Horizonte, localizado no centro da cidade. Com uma arquitetura única e uma atmosfera vibrante, o local oferece uma grande variedade de produtos, desde artesanatos locais até roupas e acessórios. É também um excelente local para experimentar a gastronomia mineira, com diversas opções de lanches tradicionais e pratos típicos. O mercado é um verdadeiro centro cultural, onde a tradição e a modernidade se encontram, proporcionando uma experiência autêntica da vida belo-horizontina. TEXTO ATUALIZADO VIA API.",
       "categoria": "Compras",
       "endereco": "R. Rio Grande do Sul, 499 - Centro, Belo Horizonte - MG",
-      "horarios": "Segunda a Sexta: 10h às 00h. Sábado: 07h às 00h. Domingo: 07h às 18h.",
+      "horarios": "Segunda a Sexta: 10h às 22h. Sábado: 07h às 22h. Domingo: 07h às 18h.",
       "telefone": "(31) 99753-4842",
       "destaque": true,
-      "data": "2025-10-15",
+      "data": "2025-11-02",
       "imagem_principal": "assets/img/mercado-novo.jpeg",
       "atracoes": [
         {
